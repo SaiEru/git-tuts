@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Conference 2025",
+    "category": "Tech",
+    "location": "San Francisco",
+    "date": "2025-05-12",
+    "description": "Join the biggest tech event of the year."
+  },
+  {
+    "id": 2,
+    "title": "Startup Mixer",
+    "category": "Startup",
+    "location": "Boston",
+    "date": "2025-06-01",
+    "description": "Network with entrepreneurs and investors."
+  }
+]

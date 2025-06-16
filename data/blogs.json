@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Startup Success Tips",
+    "category": "Startups",
+    "author": "Alex Stone",
+    "date": "2025-04-10",
+    "content": "Startups fail for many reasons, but here’s how to avoid it."
+  },
+  {
+    "id": 2,
+    "title": "Mastering Your Finances",
+    "category": "Finance",
+    "author": "Morgan Lee",
+    "date": "2025-04-12",
+    "content": "Financial literacy is key to personal success."
+  }
+]
